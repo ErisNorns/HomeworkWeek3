@@ -1,0 +1,3 @@
+# MyProject3
+
+My gitignore file keeps acting up so here's a new project...  
